@@ -1,11 +1,11 @@
 # Site settings
 author: Rick Rosetti
-title: 
+title: Rick's Software Engineering Blog
 header-img: img/home-bg.png
 email: rick.rosetti@gmail.com
 copyright_name: Rick Rosetti
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My journey through the Flatiron School full-stack development program
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  RickLearnsToCode
