@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My First Sinatra App"
-date:       2020-02-09 19:49:21 +0000
+date:       2020-02-09 14:49:23 -0500
 permalink:  my_first_sinatra_app
 ---
 
@@ -19,3 +19,5 @@ Once I had the basics of creating a user and logging in, I began building the re
 Once the basic structure for all of the models and views was done, it became a very iterative process.  I would test the app extensively by running it locally through a shotgun development server.  This allowed me to test my links and flows, identifying bugs and unintended behavior as I went.  Every time I noticed a bug or something else I didn't like, I would pause and code a fix.  Then I would test again, and commit the change to my git repo.
 
 Overall I would guess I've put about 30 hours of work into building this application.  It may not be pretty, but I'm very happy with the functionality and I learned a lot.  Looking forward to moving on to Rails for my next project and moving towards more complex projects!
+
+You can see a walkthrough of the app's functionality here: https://youtu.be/OHJBM0ITD0s 
